@@ -33,4 +33,4 @@
             } 
             echo "<script>alert('Adoption Request Sent Successfully');</script>";
             echo "<script type='text/javascript'>window.location.href='adopt.php'</script>";
-        ?>
+        ?> 
